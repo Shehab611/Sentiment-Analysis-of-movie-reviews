@@ -4,12 +4,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Shehab611/Sentiment-Analysis-of-movie-reviews/assets/77563526/d797e53f-942f-4124-911d-1178941cb53b
-  " alt="project-screenshot" width="150" height="400/">
-  
-<img src="![image](https://github.com/Shehab611/Sentiment-Analysis-of-movie-reviews/assets/77563526/33198e52-7b1e-48a4-90b6-783b47ff474f)
-  " alt="project-screenshot" width="150" height="400/">
-  
+  <img src="![WhatsApp Image 2024-06-14 at 15 22 52_fe28bd29](https://github.com/Shehab611/Sentiment-Analysis-of-movie-reviews/assets/77563526/f34fe6b9-6a99-4249-8095-1910a0f243b9)
+" alt="project-screenshot" width="250" height="520/">
   
 <h2>🧐 Features</h2>
 
