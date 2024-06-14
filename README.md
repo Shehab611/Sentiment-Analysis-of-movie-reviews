@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![image](https://github.com/Shehab611/Sentiment-Analysis-of-movie-reviews/assets/77563526/d797e53f-942f-4124-911d-1178941cb53b)
+<img src="https://github.com/Shehab611/Sentiment-Analysis-of-movie-reviews/assets/77563526/d797e53f-942f-4124-911d-1178941cb53b
   " alt="project-screenshot" width="150" height="400/">
   
 <img src="![image](https://github.com/Shehab611/Sentiment-Analysis-of-movie-reviews/assets/77563526/33198e52-7b1e-48a4-90b6-783b47ff474f)
