@@ -5,7 +5,7 @@
 <h2>Project Screenshots:</h2>
 
   <img src="https://github.com/Shehab611/Sentiment-Analysis-of-movie-reviews/assets/77563526/f34fe6b9-6a99-4249-8095-1910a0f243b9" alt="project-screenshot" width="800" height="600/">
-  
+    <img src="https://github.com/Shehab611/Sentiment-Analysis-of-movie-reviews/assets/77563526/5534fe7c-0e50-47a1-9d31-9b3210179a32" alt="project-screenshot" width="800" height="600/">
 <h2>🧐 Features</h2>
 
 Here are some of the project's best features:
